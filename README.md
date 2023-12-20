@@ -1,3 +1,7 @@
+# Hailay-X-UI 定制版
+由于X-UI后续已经闭源，fork项目进行二次开发，方便使用。
+数据库地址在`/etc/x-ui/x-ui.db`，用SQLite，密码`admin`，`admin`
+
 # X-UI
 简体中文|[ENGLISH](./README_EN.md)  
 
